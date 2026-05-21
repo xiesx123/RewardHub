@@ -1,5 +1,9 @@
 # RewardHub
 
+[![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python)](https://www.python.org/)
+[![uv](https://img.shields.io/badge/UV-Package-DE5FE9?logo=astral)](https://docs.astral.sh/uv/)
+[![RewardHub](https://img.shields.io/badge/RewardHub-Proview-3E63DD?logo=react)](http://129.146.183.34:8081)
+
 现代化互动积分奖励平台，帮助企业、社区与活动平台快速构建用户生态.
 
 <picture>
@@ -8,10 +12,6 @@
    <img alt="dashboard" src="http://129.146.183.34:8081/images/dashboard_zh_dark.png" />
  </picture>
 </div>
-
-[![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python)](https://www.python.org/)
-[![uv](https://img.shields.io/badge/UV-Package-DE5FE9?logo=astral)](https://docs.astral.sh/uv/)
-[![RewardHub](https://img.shields.io/badge/RewardHub-Proview-3E63DD?logo=react)](http://129.146.183.34:8081)
 
 ### 启动
 
