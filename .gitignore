@@ -1,0 +1,37 @@
+### VSCode ###
+*.pid
+*.log
+*.exe
+*.msi
+*.mp4
+*.pyc
+.coverage
+**/temp/
+
+### Node ###
+**/node_modules/
+**/dist/
+**/cache/
+**/docs/package-lock.json
+
+### CreatorBox ###
+.venv/
+extensions/
+logs/
+setup/
+models/
+webapp/
+build/
+
+### Exclude ###
+!r3.exe
+!setup/setup.bat
+!setup/setup.iss
+!setup/uv.bat
+!webapp/data/iopaint.json
+!webapp/data/db.db
+!webapp/data/tts.json
+!webapp/data/azure_*
+!webapp/extensions/
+
+

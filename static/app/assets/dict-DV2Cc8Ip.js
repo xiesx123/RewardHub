@@ -1,0 +1,1 @@
+const e=new Map([[1,"余额"],[2,"积分"]]),t=new Map([[1,"系统"],[2,"充值"],[3,"消费"],[4,"签到"],[5,"赠送"],[6,"奖励"]]),n=new Map([[1,"text-blue-500"],[2,"text-green-600"],[3,"text-orange-500"],[4,"text-green-500"],[5,"text-green-500"],[6,"text-green-500"]]);export{n as a,t as o,e as t};
