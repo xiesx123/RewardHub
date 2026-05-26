@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13+-0078D7?logo=python)](https://www.python.org/)
 [![uv](https://img.shields.io/badge/UV-Package-DE5FE9?logo=astral)](https://docs.astral.sh/uv/)
-[![RewardHub](https://img.shields.io/badge/RewardHub-Proview-3E63DD?logo=react)](http://129.146.183.34:8081)
+[![RewardHub](https://img.shields.io/badge/RewardHub-Demo-3E63DD?logo=react)](http://156.224.28.65:8001/sign-in?username=demo&password=123456)
 
 现代化互动积分奖励平台，帮助企业、社区与活动平台快速构建用户生态.
 
