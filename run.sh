@@ -8,9 +8,9 @@ stop_app() {
         local pid=$(cat "$APP_PID_FILE")
         if kill -0 "$pid" 2>/dev/null; then
             kill "$pid"
-            echo "已停止进程: $pid"
+            echo "已停止，PID: $pid"
         else
-            echo "进程 $pid 已不存在"
+            echo "PID $pid 已不存在"
         fi
         rm -f "$APP_PID_FILE"
     else
@@ -43,7 +43,7 @@ case "$1" in
     fi
     ;;
   *)
-    echo "Usage: $0 {start|stop|restart|log|oci_start|oci_stop|oci_log}"
+    echo "Usage: $0 {start|stop|restart|log}"
     exit 1
     ;;
 esac

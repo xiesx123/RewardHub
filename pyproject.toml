@@ -1,7 +1,7 @@
 [project]
-name = "reward-hub"
+name = "creator-hub"
 version="1.0.0"
-description="🚀 Reward Hub"
+description=""
 readme = "README.md"
 requires-python = ">=3.13,<4.0"
 dependencies = [

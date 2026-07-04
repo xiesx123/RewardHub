@@ -1,8 +1,8 @@
-# RewardHub
+# CreatorHub
 
 [![Python](https://img.shields.io/badge/Python-3.13+-0078D7?logo=python)](https://www.python.org/)
 [![uv](https://img.shields.io/badge/UV-Package-DE5FE9?logo=astral)](https://docs.astral.sh/uv/)
-[![RewardHub](https://img.shields.io/badge/RewardHub-Demo-3E63DD?logo=react)](http://156.224.28.65:8001/sign-in?username=demo&password=123456)
+[![CreatorHub](https://img.shields.io/badge/CreatorHub-Demo-3E63DD?logo=react)](http://156.224.28.65:8001/sign-in?username=demo&password=123456)
 
 现代化互动积分奖励平台，帮助企业、社区与活动平台快速构建用户生态.
 
@@ -17,8 +17,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/xiesx123/RewardHub.git
-cd RewardHub
+git clone https://github.com/xiesx123/CreatorHub.git
+cd CreatorHub
 
 # 安装依赖（使用 uv）
 uv sync
@@ -49,5 +49,5 @@ demo/123456
 
 ### 支持
 
-- 提交问题：[Issues](https://github.com/xiesx123/RewardHub/issues)
+- 提交问题：[Issues](https://github.com/xiesx123/CreatorHub/issues)
 - 邮件联系：[Email](mailto:xiesx123@gmail.com)
