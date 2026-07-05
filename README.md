@@ -2,14 +2,12 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13+-0078D7?logo=python)](https://www.python.org/)
 [![uv](https://img.shields.io/badge/UV-Package-DE5FE9?logo=astral)](https://docs.astral.sh/uv/)
-[![CreatorHub](https://img.shields.io/badge/CreatorHub-Demo-3E63DD?logo=react)](http://156.224.28.65:8001/sign-in?username=demo&password=123456)
-
-现代化互动积分奖励平台，帮助企业、社区与活动平台快速构建用户生态.
+[![CreatorHub](https://img.shields.io/badge/CreatorHub-Demo-3E63DD?logo=react)](http://156.224.28.65:8081/sign-in?username=demo&password=123456)
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="http://129.146.183.34:8081/images/dashboard_zh_dark.png" />
-   <source media="(prefers-color-scheme: light)" srcset="http://129.146.183.34:8081/images/dashboard_zh_light.png" />
-   <img alt="dashboard" src="http://129.146.183.34:8081/images/dashboard_zh_dark.png" />
+   <source media="(prefers-color-scheme: dark)" srcset="http://156.224.28.65:8081/images/dashboard_zh_dark.png" />
+   <source media="(prefers-color-scheme: light)" srcset="http://156.224.28.65:8081/images/dashboard_zh_light.png" />
+   <img alt="dashboard" src="http://156.224.28.65:8081/images/dashboard_zh_dark.png" />
  </picture>
 </div>
 
