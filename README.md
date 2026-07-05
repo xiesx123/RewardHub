@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13+-0078D7?logo=python)](https://www.python.org/)
 [![uv](https://img.shields.io/badge/UV-Package-DE5FE9?logo=astral)](https://docs.astral.sh/uv/)
-[![CreatorHub](https://img.shields.io/badge/CreatorHub-Demo-3E63DD?logo=react)](http://156.224.28.65:8081/sign-in?username=demo&password=123456)
+[![CreatorHub](https://img.shields.io/badge/CreatorHub-Demo-3E63DD?logo=react)](http://156.224.28.65:8081/sign-in?username=demo&password=12345678)
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="http://156.224.28.65:8081/images/dashboard_zh_dark.png" />
@@ -31,7 +31,7 @@ run.bat
 run.sh
 
 # 默认密码
-demo/123456
+demo/12345678
 ```
 
 ### 技术栈
